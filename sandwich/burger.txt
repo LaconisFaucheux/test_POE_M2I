@@ -5,3 +5,5 @@ oignon
 sauce bbq
 steak
 fromage
+pickles
+bacon
